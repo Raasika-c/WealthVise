@@ -1,0 +1,15 @@
+streamlit
+streamlit-authenticator
+finnhub-python
+yfinance
+praw
+newsapi-python
+transformers
+torch
+plotly
+pandas
+numpy
+groq
+python-dotenv
+scikit-learn
+pyyaml

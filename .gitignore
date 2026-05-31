@@ -1,0 +1,10 @@
+.env
+config.yaml
+portfolios.db
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.db
